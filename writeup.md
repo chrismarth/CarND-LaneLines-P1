@@ -1,4 +1,4 @@
-**Finding Lane Lines on the Road**
+#Finding Lane Lines on the Road#
 
 The goals of this project were the following:
 * Make an image processing pipeline that finds lane lines on a series of example images and video files that are representative of that which would be found on a real vehicle
